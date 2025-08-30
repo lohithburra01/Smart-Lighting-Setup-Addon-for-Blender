@@ -8,6 +8,7 @@ A Blender addon that creates scale-aware lighting setups with automated position
 <img width="729" height="727" alt="Screenshot 2025-04-30 011733" src="https://github.com/user-attachments/assets/174d550a-a3a4-4ff0-aafe-9e8b806a547e" />
 <img width="728" height="730" alt="Screenshot 2025-04-30 012328" src="https://github.com/user-attachments/assets/1281e975-50aa-417e-a0c3-d412fe60bc3a" />
 <img width="725" height="725" alt="Screenshot 2025-04-30 011835" src="https://github.com/user-attachments/assets/7adb5735-1685-41e9-98cd-4888bab2d890" />
+
 ## Overview
 
 This addon eliminates the tedious process of manually setting up lighting for different object scales and types. Instead of spending time positioning lights and adjusting energy levels, you get mathematically calculated setups that adapt to your object's dimensions and camera position.
