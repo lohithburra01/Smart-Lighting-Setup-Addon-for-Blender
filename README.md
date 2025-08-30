@@ -1,6 +1,7 @@
 # Smart Lighting Setup
 
 A Blender addon that creates scale-aware lighting setups with automated positioning, energy calculation, and false color preview for professional 3D workflows.
+
 <img width="729" height="731" alt="Screenshot 2025-04-30 011151" src="https://github.com/user-attachments/assets/56ead048-49d8-489d-a62a-ec87fcf66b76" />
 <img width="729" height="730" alt="Screenshot 2025-04-30 011333" src="https://github.com/user-attachments/assets/7231fb94-8ca1-403f-b881-a42bfd8dd0ff" />
 <img width="729" height="728" alt="Screenshot 2025-04-30 011651" src="https://github.com/user-attachments/assets/f23ddc7b-d5e2-4be0-a29a-82a0e973be75" />
